@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configsncrypt",
+        "uuid": 10080600,
+        "checksum": "v9jocm"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
